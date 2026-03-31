@@ -1,4 +1,4 @@
-# Zycron — _Mission Decision Control System_
+# Zycron — _Assured Mission Decision & Control System_
 
 ## 🧰 Technologies Used in Practice
 
