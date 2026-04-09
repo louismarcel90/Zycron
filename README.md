@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
 
-> Design Discussion ongoing (done) --- final requirements ongoing
+> Design Discussion ongoing (done) --- final requirements ongoing (done) --- start soon
 
 ![node](https://img.shields.io/badge/node-%3E%3D18-green)
 ![license](https://img.shields.io/badge/license-MIT-blue)
